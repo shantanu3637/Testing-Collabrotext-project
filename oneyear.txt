@@ -1,0 +1,10 @@
+For most users the file system is the most visible aspect of an operating system.
+
+
+File systems live on devices
+
+Simplest directory structure is single level directory
+
+shabdajsd
+asdbashjdbasd
+asdsfdsdfjshd
